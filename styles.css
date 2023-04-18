@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(79, 79, 255);
+}
+.intro{
+  font-size: 15px;
+  color: azure;
+  text-align: center;
+  margin-top: 205px;
+  font-weight: bold;
+}
+.name{
+  color: rgb(255, 197, 50);
+  font-size: 70px;
+  text-align: center;
+  margin-top: 10px;
+}
+.informação{
+  color: rgb(202, 202, 202);
+  font-size: 20px;
+  text-align: center;
+  margin-top: 30px;
+}
+.saibamais{
+  color: bisque;
+  font-size: 27px;
+  text-align:var(.saibamais)
+  margin-top: 130px;
+  font-weight:;
+}
