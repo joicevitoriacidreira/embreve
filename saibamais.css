@@ -1,1 +1,22 @@
 
+body{
+  background-color: rgb(153, 90, 211);
+}
+
+.intro{
+  font-size: 30px;
+  text-align:left;
+  margin-top: 100px;
+  color: rgb(0, 0, 0);
+  margin-left: 50px;
+  margin-right: 200px;
+
+}
+
+.equipe{
+  margin-top: 150px;
+  margin-left: 40px;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(22, 18, 13);
+}
